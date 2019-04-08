@@ -6,7 +6,9 @@ div{
 
 }
 
-.first{background-color: red;border: solid;border-width: 50px;margin-left: 205px;}
+.first{
+  background-color: red;border: solid;border-width: 50px;margin-left: 205px;
+}
 .second{
   background-color: yellow;
   border: solid;

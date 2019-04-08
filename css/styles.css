@@ -1,0 +1,28 @@
+
+
+div{
+  width:200px;
+  height:200px;
+
+}
+
+.first{background-color: red;border: solid;border-width: 50px;margin-left: 205px;}
+.second{
+  background-color: yellow;
+  border: solid;
+}
+.third{
+  border-width: 20px;
+  border-width: 20;
+  background-color: blue;
+  border: solid;
+  margin-left: 205px;
+}
+h1{
+  color: white;
+  margin-left: 10px;
+}
+p{
+  color:white;
+  margin-left: 10px;
+}
